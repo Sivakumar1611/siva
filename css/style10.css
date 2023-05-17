@@ -1,0 +1,138 @@
+.heading {
+    text-align: center;
+    background-color: aqua;
+    margin: 10px 500px 10px 500px;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border-radius: 30px;
+
+}
+.heading1{
+    border: 2px solid red;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    text-align: justify;
+    word-spacing: 5px;
+    font-size: large;
+    border-radius: 20px;
+
+    
+}
+a{
+    color:orange;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.heading2 {
+    
+    border: 2px solid red;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;  
+    text-align: justify;
+    word-spacing: 5px;
+    font-size: large;
+    
+}
+
+.heading2 {
+    background-color:pink;
+    margin:10px 1050px 10px 10px ;
+    border-radius: 30px;
+    color: yellow;
+} 
+ h1{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+}
+.heading3{
+    width: 32%;
+    border: 2px solid red;
+    margin-left: 34%;
+    background-color:orange;
+    margin-top: -350px;
+    padding: 10px;  
+    text-align: justify;
+    word-spacing: 5px;
+    font-size: large;
+    border-radius: 30px;
+}
+
+
+.heading4 {
+    width: 29%;
+    border: 2px solid red;
+    margin-left: 69%;
+    background-color: aquamarine;
+    margin-top: -342px;
+    padding: 10px;  
+    text-align: justify;
+    word-spacing: 5px;
+    font-size: large;
+    height: 41%;
+    border-radius: 30px;
+    color: red;
+}
+.heading4 h1{
+    text-align: center;
+    color: red;
+}
+.links{
+    
+    margin: 20px 20px 20px 500px;
+    
+}
+.links li{
+    list-style-type: none;
+    padding: 15px;
+    color: red;
+    border: 2px solid green;
+    margin-top: 5px;
+    margin-right: 700px;
+    border-radius: 20px;
+    background-color: aqua;
+    font-size: 30px;
+    
+}
+ .links ul li::before{
+    content: "\2714\0020";
+}
+.forms h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+}
+
+.forms table{
+
+    background-color: burlywood;
+    text-align: center;
+    
+    margin-left: 39%;
+
+
+}
+table,td{
+    border-radius: 20px;
+    color: black;
+    background-color:green;
+}
+.images{
+
+    margin:-900px 50px 0px 1300px;
+    
+    position: fixed;
+    bottom: 50px;    
+}
+.images ul{
+    list-style-type: none;
+}
+.links ul li:hover{
+    
+    background-color: brown;
+}
+
